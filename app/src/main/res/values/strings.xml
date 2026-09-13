@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sony QX10 Controller</string>
+    <string name="live_view">Live View</string>
+    <string name="controls">Controls</string>
+    <string name="camera_status">Camera Status</string>
+    <string name="connect">Connect</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+</resources>

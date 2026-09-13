@@ -1,0 +1,7 @@
+-keep class com.mulishboy92.sonyqx10controller.** { *; }
+-keep class com.google.gson.** { *; }
+-keep class okhttp3.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
+-keepattributes Signature
+-keepattributes *Annotation*
